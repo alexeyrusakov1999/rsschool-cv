@@ -6,11 +6,13 @@
 
 2. Contacts:
 
-- \_Email: alexeyrusakov1999@gmail.com
-- \_https://github.com/alexeyrusakov1999
+- Email: alexeyrusakov1999@gmail.com
+- https://github.com/alexeyrusakov1999
 - discord: AlexRusakov#3978
 
-3. ABOUT MYSELF: I'm a student of Voronezh State University, SEO-specialist and begginer of Frontend development. I want to become a developer and get my firs job offer.
+3. ABOUT MYSELF:
+
+   I'm a student of Voronezh State University, SEO-specialist and begginer of Frontend development. I want to become a developer and get my firs job offer.
 
 4. Skills:
 
