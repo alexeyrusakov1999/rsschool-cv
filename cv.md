@@ -1,6 +1,9 @@
 #RSSchool-CV
 
+---
+
 1. My name is Alexey Rusakov.
+
 2. Contacts:
 
 - \_Email: alexeyrusakov1999@gmail.com
@@ -8,13 +11,16 @@
 - discord: AlexRusakov#3978
 
 3. ABOUT MYSELF: I'm a student of Voronezh State University, SEO-specialist and begginer of Frontend development. I want to become a developer and get my firs job offer.
+
 4. Skills:
+
    - HTML
    - CSS
    - JS
    - React
    - GIT
    - Webpack
+
 5. Code example:
 
 ```
@@ -37,5 +43,7 @@ s = s.toLowerCase().split("");
 
 6. My learning project: FastCompany-app(React, Redux, Node js)
    https://github.com/alexeyrusakov1999/fast-company-app
+
 7. Courses: Junior FullStack developer by Vladilen Minin
+
 8. English level: A2/B1
